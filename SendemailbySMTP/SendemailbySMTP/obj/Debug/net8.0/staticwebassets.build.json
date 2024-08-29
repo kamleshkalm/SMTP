@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q27TVwm7p1k/9Pb7s7NbkfzkVxy2Jl68A6U2LeXqIlI=",
+  "Source": "SendemailbySMTP",
+  "BasePath": "_content/SendemailbySMTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
