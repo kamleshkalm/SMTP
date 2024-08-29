@@ -20,6 +20,7 @@ This project is a .NET Core Web API built with ASP.NET Core, designed to send em
    git clone https://github.com/username/SendEmailBySMTP.git
 2 - Navigate to the project directory
     cd SendEmailBySMTP
+    
 3 - Restore dependencies
   dotnet restore
 
@@ -27,6 +28,7 @@ This project is a .NET Core Web API built with ASP.NET Core, designed to send em
   
 4- Build the project
   dotnet build
+  
 5 - Run the application
   dotnet run
 
