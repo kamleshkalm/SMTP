@@ -17,7 +17,7 @@ This project is a .NET Core Web API built with ASP.NET Core, designed to send em
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/username/SendEmailBySMTP.git
+   git clone https://github.com/kamleshkalm/SMTP.git
 2 - Navigate to the project directory
     cd SendEmailBySMTP
     
